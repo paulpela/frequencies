@@ -1,0 +1,4 @@
+frequencies
+*.o
+*.dwo
+tags
